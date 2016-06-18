@@ -1,0 +1,2 @@
+# DMVillan-Web-Libraries
+DMVillan-Web-Libraries repository is a collection of existing ready-made solutions for both Web Designers and Web Developers. The main goal is to track down existing libraries over the internet and provide updated list of reliable resources for faster development. This is applicable for beginners, advanced users and professionals. Hope you find this information very useful, please contact me for any suggestions/comments.
